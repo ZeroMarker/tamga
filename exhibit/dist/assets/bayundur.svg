@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="216"
+   height="158"
+   id="svg6394"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Rüzgar\Belgelerim\Vikipedi\tamgalar"
+   sodipodi:docname="bayundur.svg">
+  <defs
+     id="defs6396" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="196.19334"
+     inkscape:cy="64.436983"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     height="158px"
+     width="216px"
+     inkscape:window-width="853"
+     inkscape:window-height="573"
+     inkscape:window-x="44"
+     inkscape:window-y="58" />
+  <metadata
+     id="metadata6399">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g8177"
+       transform="matrix(0.861131,0,0,0.861131,29.71135,7.311944)">
+      <rect
+         y="30.720779"
+         x="33.840111"
+         height="40.911179"
+         width="114.14724"
+         id="rect6403"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:4.64505291;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path7290"
+         d="M 33.840106,71.631958 L 33.840106,113.55329 L 147.98708,113.55329 L 147.98708,135.77664"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:4.64505291;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="216"
+   height="158"
+   id="svg1899"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Rüzgar\Belgelerim\Vikipedi\tamgalar"
+   sodipodi:docname="begdili.svg">
+  <defs
+     id="defs1901" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="193.26186"
+     inkscape:cy="42.304632"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="216px"
+     height="158px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="682"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata1904">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6379"
+       transform="translate(11.81061,3.327405)">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path1908"
+         d="M 180.23101,46.883239 L 140.83507,104.96702"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path1910"
+         d="M 127.198,104.96702 L 180.23101,104.96702 L 127.198,46.378169"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path3704"
+         d="M 96.622252,104.96702 L 83.564345,104.96702 L 12.147763,104.96702"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path5480"
+         d="M 97.191358,104.96702 C 102.52113,103.27364 110.09047,99.892691 113.02507,96.45257 C 113.61582,93.456744 114.28544,90.460918 113.02507,87.465092 C 112.6125,85.835669 111.76334,84.365435 110.05672,83.207867 L 39.027341,83.207867 C 35.382156,83.273389 33.212354,83.054427 32.259255,79.896691 C 39.383817,75.233521 42.688605,69.615407 47.901228,64.474252"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:4.00000143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
